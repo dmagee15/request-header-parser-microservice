@@ -1,7 +1,15 @@
 # Request Header Parser Microservice
 
-*FreeCodeCamp Back End API Project*
+### User Stories
 
-User Story: I can get the IP address, language and operating system for my browser.
+#### 1. I can get the IP address, language and operating system for my browser.
 
-Making a get request to the base url will return a json object consisting of the ip address, language, and operating system of the request source.
+The API endpoint is the [base url]. 
+
+### Example Usage
+
+[base url]
+
+### Example Output
+
+{"ipaddress":"96.190.100.110","language":"en-US","software":"Windows NT 10.0; Win64; x64"}
